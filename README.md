@@ -18,8 +18,11 @@ TECH STACK
   -Python 3
   -Command-Line Interface (CLI)
 
-# Run the Calculator
-python calculator.py
+# Run the Calculator in command prompt
+1. git clone https://github.com/Kiran-sai-99/calculator-cli-app.git
+2.cd calculator-cli-app
+after that type
+3.python calculator.py   then it will execute.
 
 ## Example Screenshots:
 
