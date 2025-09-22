@@ -12,7 +12,11 @@ It supports the four basic arithmetic operations:
 The calculator runs in the terminal and it will execute until the user chooses to exit.
 
 KEY CONCEPTS USED:
- -Functions, Loops, Conditionals AND CLI Interaction.
+  -Functions, Loops, Conditionals AND CLI Interaction.
+
+TECH STACK
+  -Python 3
+  -Command-Line Interface (CLI)
 
 # Run the Calculator
 python calculator.py
